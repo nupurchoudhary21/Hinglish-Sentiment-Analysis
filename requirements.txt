@@ -1,0 +1,6 @@
+gradio==5.44.1
+scikit-learn==1.6.1
+numpy>=1.23.5,<2.0
+joblib>=1.4,<2.0
+emoji>=2.14,<3.0
+ftfy>=6.3,<7.0
