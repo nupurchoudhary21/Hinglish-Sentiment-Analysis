@@ -19,16 +19,11 @@ A Gradio web app for classifying Hindi-English (Hinglish) text into **negative**
 
 4. Open the local URL printed in the terminal (normally `http://127.0.0.1:7860`).
 
-## Deploy on Render
+## Live application demo at:
+https://hinglish-sentiment-analysis-mcdw.onrender.com/
 
-1. Push this repository to GitHub.
-2. In Render, create a **New Web Service** and connect the repository.
-3. Set:
-   - Runtime: Python
-   - Build command: `pip install -r requirements.txt`
-   - Start command: `python app.py`
-4. Choose a free instance if available for your account/region.
-5. Deploy. Render provides a public URL.
+<img width="1252" height="395" alt="image" src="https://github.com/user-attachments/assets/195d21e3-973e-4425-bcea-47501d275440" />
+
 
 Free web services may sleep after inactivity and take time to wake up. A public URL is stable, but free hosting is not guaranteed to be continuously awake.
 
